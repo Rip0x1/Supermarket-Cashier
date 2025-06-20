@@ -1,0 +1,34 @@
+﻿<Page x:Class="WpfApp1.Pages.ProductsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1.Pages"
+      xmlns:model="clr-namespace:WpfApp1.ViewModels"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+Title="Товары">
+    <Page.DataContext>
+        <model:ProductsViewModel/>
+    </Page.DataContext>
+    <Grid Margin="20">
+        <DataGrid ItemsSource="{Binding Products}" AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Код" Binding="{Binding ProductCode}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Название" Binding="{Binding Name}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Ед. изм." Binding="{Binding Unit}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Цена" Binding="{Binding Price, StringFormat=C2}" IsReadOnly="True"/>
+            </DataGrid.Columns>
+            <DataGrid.CellStyle>
+                <Style TargetType="DataGridCell">
+                    <Setter Property="Padding" Value="5"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsSelected" Value="True">
+                            <Setter Property="Background" Value="{DynamicResource MaterialDesignSelection}"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.CellStyle>
+        </DataGrid>
+    </Grid>
+</Page>

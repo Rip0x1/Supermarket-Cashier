@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\pages\\basketpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:pages\\basketpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\viewmodels\\basketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:viewmodels\\basketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:models\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\pages\\basketpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:pages\\basketpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\pages\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:pages\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Miracle 0x1\\AppData\\Local\\SourceServer\\f6d2b52d64f637fad70cdf793dbf8e5fb5514f1b05925c69d313f1043c977bba\\src\\libraries\\System.Private.CoreLib\\src\\System\\DefaultBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Miracle 0x1\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Miracle 0x1\\AppData\\Local\\Temp\\.vsdbgsrc\\229e7be31f9c07f07d4a015bfccca0369d8b6096530c222259ab1982e2e973ba\\Page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\pages\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|WpfApp1.csproj|solutionrelative:pages\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|Supermarket Cashier.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\supermarket cashier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|Supermarket Cashier.csproj|solutionrelative:supermarket cashier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|Supermarket Cashier.csproj|c:\\users\\miracle 0x1\\downloads\\supermarket\\wpfapp1\\pages\\basketpage.xaml||{8D42AE58-4628-4780-AC3C-6B7E6DE7A92A}|",
+      "RelativeMoniker": "D:0:0:{91D49319-FA71-410C-B03D-C5E4BB3772EB}|Supermarket Cashier.csproj|solutionrelative:pages\\basketpage.xaml||{8D42AE58-4628-4780-AC3C-6B7E6DE7A92A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 20,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BasketPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Pages\\BasketPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\BasketPage.xaml",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Pages\\BasketPage.xaml",
+              "RelativeToolTip": "Pages\\BasketPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T08:39:50.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Pages\\BasketPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\BasketPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Pages\\BasketPage.xaml.cs",
+              "RelativeToolTip": "Pages\\BasketPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:01:19.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\ViewModels\\BasketViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BasketViewModel.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\ViewModels\\BasketViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BasketViewModel.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwDgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:49:58.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasketPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Pages\\BasketPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\BasketPage.xaml",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Pages\\BasketPage.xaml",
+              "RelativeToolTip": "Pages\\BasketPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T07:55:07.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Models\\BasketItem.cs",
+              "RelativeDocumentMoniker": "Models\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Models\\BasketItem.cs",
+              "RelativeToolTip": "Models\\BasketItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:46:07.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:45:24.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Pages\\ProductsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ProductsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Pages\\ProductsPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ProductsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:01:31.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\ViewModels\\ProductsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductsViewModel.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\ViewModels\\ProductsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:50:19.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwCAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:54:34.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:54:18.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T07:53:48.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:46:34.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\AppData\\Local\\Temp\\.vsdbgsrc\\229e7be31f9c07f07d4a015bfccca0369d8b6096530c222259ab1982e2e973ba\\Page.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\229e7be31f9c07f07d4a015bfccca0369d8b6096530c222259ab1982e2e973ba\\Page.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\AppData\\Local\\Temp\\.vsdbgsrc\\229e7be31f9c07f07d4a015bfccca0369d8b6096530c222259ab1982e2e973ba\\Page.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\229e7be31f9c07f07d4a015bfccca0369d8b6096530c222259ab1982e2e973ba\\Page.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAIMCAAAAAAAAAADwv5YCAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:59:13.125Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:42:31.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DefaultBinder.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\AppData\\Local\\SourceServer\\f6d2b52d64f637fad70cdf793dbf8e5fb5514f1b05925c69d313f1043c977bba\\src\\libraries\\System.Private.CoreLib\\src\\System\\DefaultBinder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\f6d2b52d64f637fad70cdf793dbf8e5fb5514f1b05925c69d313f1043c977bba\\src\\libraries\\System.Private.CoreLib\\src\\System\\DefaultBinder.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\AppData\\Local\\SourceServer\\f6d2b52d64f637fad70cdf793dbf8e5fb5514f1b05925c69d313f1043c977bba\\src\\libraries\\System.Private.CoreLib\\src\\System\\DefaultBinder.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\f6d2b52d64f637fad70cdf793dbf8e5fb5514f1b05925c69d313f1043c977bba\\src\\libraries\\System.Private.CoreLib\\src\\System\\DefaultBinder.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzkAAAAQAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:09:28.757Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Pages\\ProductsPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ProductsPage.xaml",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Pages\\ProductsPage.xaml",
+              "RelativeToolTip": "Pages\\ProductsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T07:56:51.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvycAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:03:55.867Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WpfApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Supermarket Cashier.csproj",
+              "RelativeDocumentMoniker": "Supermarket Cashier.csproj",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\Supermarket Cashier.csproj",
+              "RelativeToolTip": "Supermarket Cashier.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T07:46:03.728Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 20,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\RelayCommand.cs",
+              "RelativeToolTip": "RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:50:48.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\Supermarket\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T07:42:32.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
