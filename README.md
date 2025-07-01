@@ -74,10 +74,12 @@
 
 ## 📷 Скриншоты
 
-![image](https://github.com/user-attachments/assets/1b66807e-2995-4b41-aba7-04619b5b6819)
-![image](https://github.com/user-attachments/assets/19142550-8c37-48dc-a16a-46cfffd34ade)
-![image](https://github.com/user-attachments/assets/52bdc784-b7f0-43df-840a-f3ba61d910a9)
-![image](https://github.com/user-attachments/assets/3699fa4a-7415-458a-881d-be604ab42d10)
+![image](https://github.com/user-attachments/assets/e3c5703e-9115-402b-8115-ff17623e869e)
+![image](https://github.com/user-attachments/assets/a96b34f8-d4dc-44dd-8330-b10c121f0b53)
+![image](https://github.com/user-attachments/assets/d7a2caf6-7538-4e9e-a8fd-0be358b492ac)
+![image](https://github.com/user-attachments/assets/c03eafae-16af-4f34-800f-6f3d15b74214)
+
+
 
 
 
